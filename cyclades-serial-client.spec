@@ -1,6 +1,6 @@
 # TODO: fix lib install when "%{_lib}" != "lib"
 Summary:	Serial Port Interface for RFC 2217 compliant terminal servers
-Summary(pl):	Interfejs portów szeregowych dla serwerów terminali zgodnych z RFC 2217
+Summary(pl.UTF-8):   Interfejs portÃ³w szeregowych dla serwerÃ³w terminali zgodnych z RFC 2217
 Name:		cyclades-serial-client
 Version:	0.93
 Release:	0.1
@@ -15,8 +15,8 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 This package connects a pseudo-tty on a local system to a remote
 serial port.
 
-%description -l pl
-Ten pakiet po³±cza pseudoterminal na systemie lokalnym do zdalnego
+%description -l pl.UTF-8
+Ten pakiet poÅ‚Ä…cza pseudoterminal na systemie lokalnym do zdalnego
 portu szeregowego.
 
 %prep
