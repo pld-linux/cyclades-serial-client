@@ -1,6 +1,6 @@
 # TODO: fix lib install when "%{_lib}" != "lib"
 Summary:	Serial Port Interface for RFC 2217 compliant terminal servers
-Summary(pl.UTF-8):   Interfejs portów szeregowych dla serwerów terminali zgodnych z RFC 2217
+Summary(pl.UTF-8):	Interfejs portów szeregowych dla serwerów terminali zgodnych z RFC 2217
 Name:		cyclades-serial-client
 Version:	0.93
 Release:	0.1
